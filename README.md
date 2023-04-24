@@ -7,6 +7,7 @@ Light theremin based on data from phototransitor. It makes sounds with Piezo
 * Breadboard
 * Phototransisor
 * Piezo
+* 10KΩ Resistor
 * Wires
 
 ## 📦 Circuit
